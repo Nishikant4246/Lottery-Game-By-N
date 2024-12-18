@@ -3,12 +3,12 @@
 
 ### Features:
 🎰 Random number generation
-🎉 Winning condition: All digits must be the same
+🎉 Winning condition: All digits must be the same.
 
 ## Active Link Section:
 
 # 🌐 **Live Demo:**  :point_right: [Demo is not available due to some reason.. I will try to upload this ... )  <br />
-# Demo Img: 
+# Demo Img: ![Image Alt](https://github.com/Nishikant4246/Lottery-Game-By-N/blob/main/Output%20Screenshot.png?raw=true)
 
 
 ## Follow Me on 😉  :computer:
@@ -21,5 +21,5 @@
 
 
 - Another Projects will be coming soon...
-- 
+
 - $ Thank You ! Stay Updated...
