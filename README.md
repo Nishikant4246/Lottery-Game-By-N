@@ -7,7 +7,8 @@
 
 ## Active Link Section:
 
-# 🌐 **Live Demo:**  :point_right: [Demo is not available due to some reason.. I will try to upload this ... )  <br />
+# 🌐 **Live Demo:**   <br />
+
 # Demo Img: ![Image Alt](https://github.com/Nishikant4246/Lottery-Game-By-N/blob/main/Output%20Screenshot.png?raw=true)
 
 
